@@ -3,6 +3,10 @@
 A feature-rich **command-line chatroom** built with Go’s `net/rpc` package.
 This project allows multiple clients to connect to a central server and exchange messages in real-time, demonstrating Go’s power in distributed systems, RPC communication, and concurrency.
 
+## 🎥 Project Demo
+
+Watch the demo video here:
+👉 [**Chatroom Demo Video**](https://drive.google.com/drive/folders/130ojqKGmUSrGxhyIR9G00m1-yeg5F0nc?usp=sharing)
 
 ## 🧠 Project Concept
 
